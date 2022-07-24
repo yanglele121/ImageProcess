@@ -1,0 +1,10 @@
+debug/Process.o
+debug/cameradlg.o
+debug/main.o
+debug/mainwindow.o
+debug/showpic.o
+debug/qrc_image.o
+debug/moc_Process.o
+debug/moc_cameradlg.o
+debug/moc_mainwindow.o
+debug/moc_showpic.o

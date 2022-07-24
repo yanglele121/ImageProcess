@@ -1,0 +1,10 @@
+release/Process.o
+release/cameradlg.o
+release/main.o
+release/mainwindow.o
+release/showpic.o
+release/qrc_image.o
+release/moc_Process.o
+release/moc_cameradlg.o
+release/moc_mainwindow.o
+release/moc_showpic.o
